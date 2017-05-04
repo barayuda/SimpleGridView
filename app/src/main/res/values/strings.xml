@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">SimpleGridView</string>
+    <string name="staggered_grid" translatable="false">Staggered Grid</string>
+</resources>
